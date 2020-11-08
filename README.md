@@ -1,12 +1,12 @@
-### Hi there, I'm Juliano 👋
+## Hi there, I'm Juliano 👋
 
-## I'm a Front End Web Developer!!!
+### I'm a Front End Web Developer!!!
 
-- 🔭 I just graduated with an Associate in Computer Programming & Information Technology
-- 🌱 I’m currently learning Redux
-- 🥅 2021 Goals: Contribute more to open source projects
-- 👯 I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
-- ⚡ Fun fact: I love to draw and play table tennis
+- 🔭  I just graduated with an Associate in Computer Programming & Information Technology
+- 🌱  I’m currently learning Redux
+- 🥅  2021 Goals: Contribute more to open source projects
+- 👯  I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
+- ⚡  Fun fact: I love to draw and play table tennis
 
 ### Languages and Tools:
 
