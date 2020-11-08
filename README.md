@@ -1,7 +1,4 @@
-### Hi there, I'm Juliano - [website] 👋
-
-[![Website](https://www.julianoperin.io)](https://www.julianoperin.io)
-[![Twitter Follow](https://twitter.com/perin_juliano)](https://twitter.com/perin_juliano)
+### Hi there, I'm Juliano -  👋
 
 ## I'm a Front End Developer!!
 
