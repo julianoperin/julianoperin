@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I am looking for growth opportunities to try new technologies and grow my technical skill set in a team-based atmosphere.
 - 🎓 &nbsp; I just graduated with an Associate Degree in Computer Programming & Information Technology.
-- 🌱 &nbsp; I’m currently learning Node.js and MongoDB.
+- 🌱 &nbsp; I’m currently learning the Node.js and MongoDB.
 - 🥅 &nbsp; 2021 Goals: Contribute more to open source projects.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: I love to draw and play table tennis
@@ -33,7 +33,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<br />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br />
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
