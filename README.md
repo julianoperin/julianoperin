@@ -1,4 +1,4 @@
-## Hi there, I'm Juliano 👋
+## Hi there, I'm Juliano <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### I'm a Front End Web Developer!!!
 
@@ -10,7 +10,9 @@
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 
-### Languages and Tools:
+<br />
+<h3> 💻 &nbsp; Languages and Tools: </h3>
+<br />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -39,9 +41,16 @@
 <br />
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/julianoperin/"><img alt="LinkedIn" src="https://img.shields.io/badge/-julianoperin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
-<a href="https://twitter.com/SulthanNK"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
-<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
+<a href="https://twitter.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/juliano-perin-a5aba716b/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto: julianoperins@gmail.com">
+  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<br />
 </p>
 
 
