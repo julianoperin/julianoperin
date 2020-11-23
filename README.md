@@ -10,7 +10,6 @@
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 
-<br />
 <h3> 💻 &nbsp; Languages and Tools: </h3>
 
 
