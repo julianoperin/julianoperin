@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
 - 🥅 &nbsp; 2021 Goals: Contribute more to open source projects.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
-- ⚡ &nbsp; Fun fact: When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+- ⚡ &nbsp; Fun fact: While most developers love coffee&nbsp;:sweat_smile:&nbsp;But, I prefer tea :heart: 
 
 <h3> 💻 &nbsp; Languages and Tools: </h3>
 
