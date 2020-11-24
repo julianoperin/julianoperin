@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I am looking for growth opportunities to try new technologies and grow my technical skill set in a team-based atmosphere.
 - 🎓 &nbsp; I just graduated with an Associate Degree in Computer Programming & Information Technology.
 - 🌱 &nbsp; I’m currently learning the Node.js and MongoDB.
-- 🤔 &nbsp; Ask me about :** Anything!, I'm happy to help :v:
+- 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
 - 🥅 &nbsp; 2021 Goals: Contribute more to open source projects.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
