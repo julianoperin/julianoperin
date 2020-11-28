@@ -1,6 +1,6 @@
 ## Hi there, I'm Juliano <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### I'm a Front End Web Developer!!!
+### I'm a Front End Web Developer!
 
 - 🔭 &nbsp; I am looking for growth opportunities to try new technologies and grow my technical skill set in a team-based atmosphere.
 - 🎓 &nbsp; I just graduated with an Associate Degree in Computer Programming & Information Technology.
@@ -14,6 +14,8 @@
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+&nbsp;
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
