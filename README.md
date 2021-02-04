@@ -6,7 +6,7 @@
 - 🎓 &nbsp; I just graduated with an Associate Degree in Computer Programming & Information Technology.
 - 🌱 &nbsp; I’m currently learning Node.js and MongoDB.
 - 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
-- 🥅 &nbsp; 2021 Goals: Contribute more to open source projects.
+- 🥅 &nbsp; 2021 Goals: Contribute more to open source projects and volunteer for non profit organizations.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: I like coffee, but I prefer tea.
 
