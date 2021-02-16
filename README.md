@@ -48,10 +48,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left"> 
 
-<a href="https://www.linkedin.com/in/juliano-perin-a5aba716b/">
+<a target=”_blank” href="https://www.linkedin.com/in/juliano-perin-a5aba716b/">
   <img align="left" alt="Ajay's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto: julianoperins@gmail.com">
+<a target=”_blank” href="mailto: julianoperins@gmail.com">
   <img align="left" alt="Ajay's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
