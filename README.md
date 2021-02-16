@@ -3,10 +3,10 @@
 ### I'm a Web Developer!
 
 - 🔭 &nbsp; I am looking for growth opportunities to try new technologies and grow my technical skill set in a team-based atmosphere.
-- 🎓 &nbsp; I just graduated with an Associate Degree in Computer Programming & Information Technology.
-- 🌱 &nbsp; I’m currently learning Node.js and MongoDB.
+- 🌱 &nbsp; I’m currently learning Redux.
 - 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
 - 🥅 &nbsp; 2021 Goals: Contribute more to open source projects and volunteer for non profit organizations.
+- 🎓 &nbsp; Associate Degree in Computer Programming & Information Technology.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: I like coffee, but I prefer tea.
 
@@ -47,14 +47,12 @@
 <br />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left"> 
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/juliano-perin-a5aba716b/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ajay's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto: julianoperins@gmail.com">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ajay's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
 </p>
