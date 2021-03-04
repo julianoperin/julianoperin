@@ -3,10 +3,8 @@
 ### I'm a Front End Web Developer!
 
 - 🔭 &nbsp; I am looking for growth opportunities to try new technologies and grow my technical skill set in a team-based atmosphere.
-- 🌱 &nbsp; I’m currently learning Redux.
 - 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
 - 🥅 &nbsp; 2021 Goals: Contribute more to open source projects and volunteer for non profit organizations.
-- 🎓 &nbsp; Associate Degree in Computer Programming & Information Technology.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
 - ⚡ &nbsp; Fun fact: I like coffee, but I prefer tea.
 
