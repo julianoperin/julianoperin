@@ -6,7 +6,8 @@
 - 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
 - 🥅 &nbsp; 2021 Goals: Contribute more to open source projects and volunteer for non profit organizations.
 - 👯 &nbsp; I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.
-- ⚡ &nbsp; Fun fact: I like coffee, but I prefer tea.
+- ⚡ &nbsp; Fun fact: I like coffee, but I prefer
+- 💻 Currently building a Social Media App with the MERN stack.
 
 <h3> 💻 &nbsp; Languages and Tools: </h3>
 
