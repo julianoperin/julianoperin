@@ -1,6 +1,6 @@
 ## Hi there, I'm Juliano <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Front End Developer!
+### Front End Developer looking for new opportunities!
 
 - 🔭 &nbsp; I am looking for growth opportunities to try new technologies and grow my technical skill set in a team-based atmosphere.
 - 🤔 &nbsp; Ask me about: Anything, I'm happy to help :v:
